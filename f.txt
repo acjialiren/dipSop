@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 f2 changed
-=======
 f1changed
->>>>>>> origin/f1
